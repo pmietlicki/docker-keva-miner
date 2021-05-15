@@ -1,4 +1,4 @@
-FROM  pmietlicki/xmrig
+FROM  pmietlicki/xmrig:ubuntu
 
 # Configuration variables.
 ENV POOL_URL    		kva.ss.dxpool.com:8999
